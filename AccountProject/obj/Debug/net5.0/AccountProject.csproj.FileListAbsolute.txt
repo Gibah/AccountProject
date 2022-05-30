@@ -1,0 +1,16 @@
+C:\Users\g.da.silva.franca\source\repos\AccountProject\AccountProject\bin\Debug\net5.0\AccountProject.exe
+C:\Users\g.da.silva.franca\source\repos\AccountProject\AccountProject\bin\Debug\net5.0\AccountProject.deps.json
+C:\Users\g.da.silva.franca\source\repos\AccountProject\AccountProject\bin\Debug\net5.0\AccountProject.runtimeconfig.json
+C:\Users\g.da.silva.franca\source\repos\AccountProject\AccountProject\bin\Debug\net5.0\AccountProject.runtimeconfig.dev.json
+C:\Users\g.da.silva.franca\source\repos\AccountProject\AccountProject\bin\Debug\net5.0\AccountProject.dll
+C:\Users\g.da.silva.franca\source\repos\AccountProject\AccountProject\bin\Debug\net5.0\ref\AccountProject.dll
+C:\Users\g.da.silva.franca\source\repos\AccountProject\AccountProject\bin\Debug\net5.0\AccountProject.pdb
+C:\Users\g.da.silva.franca\source\repos\AccountProject\AccountProject\obj\Debug\net5.0\AccountProject.csproj.AssemblyReference.cache
+C:\Users\g.da.silva.franca\source\repos\AccountProject\AccountProject\obj\Debug\net5.0\AccountProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.da.silva.franca\source\repos\AccountProject\AccountProject\obj\Debug\net5.0\AccountProject.AssemblyInfoInputs.cache
+C:\Users\g.da.silva.franca\source\repos\AccountProject\AccountProject\obj\Debug\net5.0\AccountProject.AssemblyInfo.cs
+C:\Users\g.da.silva.franca\source\repos\AccountProject\AccountProject\obj\Debug\net5.0\AccountProject.csproj.CoreCompileInputs.cache
+C:\Users\g.da.silva.franca\source\repos\AccountProject\AccountProject\obj\Debug\net5.0\AccountProject.dll
+C:\Users\g.da.silva.franca\source\repos\AccountProject\AccountProject\obj\Debug\net5.0\ref\AccountProject.dll
+C:\Users\g.da.silva.franca\source\repos\AccountProject\AccountProject\obj\Debug\net5.0\AccountProject.pdb
+C:\Users\g.da.silva.franca\source\repos\AccountProject\AccountProject\obj\Debug\net5.0\AccountProject.genruntimeconfig.cache
